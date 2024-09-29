@@ -1,0 +1,1101 @@
+WEBVTT
+
+00:00:10.940 --> 00:00:15.050
+Hello and welcome to Topic 13 of user Senate design.
+
+NOTE CONF {"raw":[100,100,100,100,86,100,98,41,87,100]}
+
+00:00:15.530 --> 00:00:19.350
+This is the six and seven videos on satisfaction Measures.
+
+NOTE CONF {"raw":[100,100,100,92,100,96,49,100,100,99]}
+
+00:00:19.740 --> 00:00:22.040
+So after studying this particular topic, you should be able
+
+NOTE CONF {"raw":[100,100,99,100,100,100,99,100,99,99]}
+
+00:00:22.040 --> 00:00:25.630
+to analyse and present data from measures off satisfaction from
+
+NOTE CONF {"raw":[100,100,93,100,100,100,98,82,100,100]}
+
+00:00:25.630 --> 00:00:26.950
+a usability evaluation.
+
+NOTE CONF {"raw":[98,99,94]}
+
+00:00:28.340 --> 00:00:32.380
+Okay, So satisfaction represents a really important part of our
+
+NOTE CONF {"raw":[78,100,100,100,100,99,100,100,100,100]}
+
+00:00:32.560 --> 00:00:35.760
+evaluation of the user interface, so we can measure how
+
+NOTE CONF {"raw":[100,100,82,100,100,100,99,99,100,100]}
+
+00:00:35.770 --> 00:00:38.920
+fast and how error free and everything people are.
+
+NOTE CONF {"raw":[100,100,100,42,99,100,99,100,99]}
+
+00:00:39.910 --> 00:00:43.630
+But we're also very interested in what they think about
+
+NOTE CONF {"raw":[99,70,100,100,100,100,100,100,100,100]}
+
+00:00:43.630 --> 00:00:47.160
+how they feel about user interface serve you any way
+
+NOTE CONF {"raw":[100,100,100,100,100,100,93,97,56,56]}
+
+00:00:47.160 --> 00:00:50.130
+we can get to this is to ask people about
+
+NOTE CONF {"raw":[100,99,100,99,100,100,99,100,100,100]}
+
+00:00:50.130 --> 00:00:53.580
+their feelings and attitudes.
+
+NOTE CONF {"raw":[96,100,100,100]}
+
+00:00:54.040 --> 00:00:56.810
+So we turned to use things like questionnaires.
+
+NOTE CONF {"raw":[100,99,64,100,100,100,100,100]}
+
+00:00:57.140 --> 00:00:59.990
+So what we're going to do in this beer is
+
+NOTE CONF {"raw":[100,100,98,100,100,100,100,100,83,85]}
+
+00:00:59.990 --> 00:01:03.490
+look at the data that we're collecting from questionnaires and
+
+NOTE CONF {"raw":[99,100,100,99,100,93,100,100,100,100]}
+
+00:01:03.490 --> 00:01:05.250
+how we might analyse that.
+
+NOTE CONF {"raw":[100,100,100,100,100]}
+
+00:01:05.890 --> 00:01:10.860
+So you can refer back Teo videos for Topic 12,
+
+NOTE CONF {"raw":[100,100,89,100,100,47,98,100,99,100]}
+
+00:01:10.860 --> 00:01:14.100
+where we talked about some of these, you know, tools
+
+NOTE CONF {"raw":[62,100,100,100,100,100,100,98,98,100]}
+
+00:01:14.100 --> 00:01:17.550
+that we're using questionnaire tools if you haven't done that
+
+NOTE CONF {"raw":[100,96,100,94,99,100,100,100,100,100]}
+
+00:01:17.550 --> 00:01:18.010
+already.
+
+NOTE CONF {"raw":[100]}
+
+00:01:19.530 --> 00:01:25.300
+Okay, so one of the first things one of the
+
+NOTE CONF {"raw":[80,100,100,100,100,100,100,100,100,100]}
+
+00:01:25.300 --> 00:01:29.900
+first measures of satisfactions that we get from participants is
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:01:29.900 --> 00:01:31.040
+their task.
+
+NOTE CONF {"raw":[86,98]}
+
+00:01:31.050 --> 00:01:32.200
+Difficulty rating.
+
+NOTE CONF {"raw":[100,100]}
+
+00:01:32.450 --> 00:01:36.030
+All right, so remember, we've got like a task we
+
+NOTE CONF {"raw":[72,72,100,100,100,100,100,100,100,100]}
+
+00:01:36.030 --> 00:01:39.660
+might get click some information from them, and this information
+
+NOTE CONF {"raw":[100,100,79,94,100,100,100,100,100,100]}
+
+00:01:39.660 --> 00:01:43.880
+here would pertain Teo completion of the task.
+
+NOTE CONF {"raw":[99,90,71,49,100,100,100,100]}
+
+00:01:44.250 --> 00:01:46.180
+But then we have our task.
+
+NOTE CONF {"raw":[100,100,100,100,99,99]}
+
+00:01:46.180 --> 00:01:47.100
+Difficulty rating.
+
+NOTE CONF {"raw":[100,100]}
+
+00:01:47.110 --> 00:01:47.580
+Okay.
+
+NOTE CONF {"raw":[92]}
+
+00:01:47.580 --> 00:01:51.640
+And this is the one where we're looking at people's
+
+NOTE CONF {"raw":[100,99,99,100,100,100,99,100,100,95]}
+
+00:01:51.640 --> 00:01:52.500
+satisfaction.
+
+NOTE CONF {"raw":[100]}
+
+00:01:53.600 --> 00:01:56.420
+Okay, so then we can when we finished the evaluation,
+
+NOTE CONF {"raw":[91,100,100,100,100,100,91,95,98,99]}
+
+00:01:56.420 --> 00:01:58.190
+we can go and have a look at the Google
+
+NOTE CONF {"raw":[95,95,100,98,100,100,100,100,100,99]}
+
+00:01:58.190 --> 00:02:01.690
+spreadsheet, and then we can see that there is a
+
+NOTE CONF {"raw":[58,89,100,100,100,100,100,100,100,100]}
+
+00:02:01.700 --> 00:02:05.920
+row for every participant and that we will have, you
+
+NOTE CONF {"raw":[70,100,100,100,100,100,59,71,100,67]}
+
+00:02:05.920 --> 00:02:08.530
+know, the information that the participant put in on in
+
+NOTE CONF {"raw":[67,100,100,99,100,100,100,100,74,100]}
+
+00:02:08.530 --> 00:02:12.930
+particular for this, we're interested in the difficulty reading for
+
+NOTE CONF {"raw":[100,99,100,81,100,100,100,100,100,100]}
+
+00:02:12.930 --> 00:02:13.790
+each of the task.
+
+NOTE CONF {"raw":[100,100,100,86]}
+
+00:02:13.790 --> 00:02:15.930
+So here we've got Task one and the data for
+
+NOTE CONF {"raw":[100,82,94,100,100,98,100,100,99,100]}
+
+00:02:15.930 --> 00:02:18.150
+each participant and task, too.
+
+NOTE CONF {"raw":[100,100,93,68,51]}
+
+00:02:18.740 --> 00:02:21.630
+So it's not really rocket science doing this one.
+
+NOTE CONF {"raw":[100,99,100,98,99,100,99,100,100]}
+
+00:02:21.930 --> 00:02:25.110
+A we really need to do is put in a
+
+NOTE CONF {"raw":[45,51,66,100,99,99,100,100,100,99]}
+
+00:02:25.110 --> 00:02:29.860
+table so that your audience can see what the readings
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,84]}
+
+00:02:29.860 --> 00:02:30.140
+were.
+
+NOTE CONF {"raw":[83]}
+
+00:02:30.150 --> 00:02:34.910
+Each task so typically with our table's just like our
+
+NOTE CONF {"raw":[100,99,100,99,77,77,58,100,100,98]}
+
+00:02:34.910 --> 00:02:35.890
+demographic table.
+
+NOTE CONF {"raw":[100,100]}
+
+00:02:35.890 --> 00:02:37.390
+We want to match this up.
+
+NOTE CONF {"raw":[100,87,79,100,100,100]}
+
+00:02:37.520 --> 00:02:40.780
+We'll have rules for each set, a participant data, and
+
+NOTE CONF {"raw":[78,100,57,100,100,100,84,100,100,67]}
+
+00:02:40.780 --> 00:02:44.060
+then we've got columns for our data itself.
+
+NOTE CONF {"raw":[90,99,100,100,100,99,99,100]}
+
+00:02:44.230 --> 00:02:47.910
+So here I've got two columns related to task difficulties.
+
+NOTE CONF {"raw":[100,100,100,100,97,99,59,99,98,100]}
+
+00:02:48.070 --> 00:02:50.530
+So we've got for Task one and Task, too.
+
+NOTE CONF {"raw":[100,64,100,60,99,98,100,79,41]}
+
+00:02:50.820 --> 00:02:52.920
+And then we put those in for each of those
+
+NOTE CONF {"raw":[93,100,99,100,100,100,100,100,100,100]}
+
+00:02:52.920 --> 00:02:55.570
+tasks for each participant on DH.
+
+NOTE CONF {"raw":[100,91,59,85,100,100]}
+
+00:02:55.570 --> 00:02:58.070
+Then later on will round out this table with our
+
+NOTE CONF {"raw":[100,100,100,75,100,99,100,100,83,81]}
+
+00:02:58.070 --> 00:03:03.320
+sussed scores, and I recommend to a friend score a
+
+NOTE CONF {"raw":[90,99,100,99,100,41,92,80,97,100]}
+
+00:03:03.320 --> 00:03:06.200
+couple of important notes about doing the table again.
+
+NOTE CONF {"raw":[100,100,100,99,100,100,100,100,100]}
+
+00:03:06.200 --> 00:03:08.850
+Make sure that you've got a caption which describes what's
+
+NOTE CONF {"raw":[99,100,100,99,98,98,99,100,100,73]}
+
+00:03:08.850 --> 00:03:13.160
+in the table and also explain your any ratings that
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,99,99]}
+
+00:03:13.160 --> 00:03:16.280
+Aaron here, any metrics, So attacks difficulty.
+
+NOTE CONF {"raw":[65,91,100,99,99,32,100]}
+
+00:03:16.340 --> 00:03:17.650
+One equals very easy.
+
+NOTE CONF {"raw":[94,99,100,100]}
+
+00:03:17.650 --> 00:03:20.750
+Five equals very hard without this information.
+
+NOTE CONF {"raw":[99,100,100,99,96,100,100]}
+
+00:03:20.840 --> 00:03:23.090
+It's like, really hard for people.
+
+NOTE CONF {"raw":[99,100,99,100,100,100]}
+
+00:03:23.090 --> 00:03:25.980
+Teo interpret your table because they don't really know what
+
+NOTE CONF {"raw":[47,100,99,100,100,99,100,99,99,99]}
+
+00:03:25.980 --> 00:03:28.570
+three or one is, which is good and which is
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,95,100,100]}
+
+00:03:28.570 --> 00:03:28.970
+bad.
+
+NOTE CONF {"raw":[100]}
+
+00:03:31.340 --> 00:03:33.800
+All right, so the next I'm questionnaire that we've got
+
+NOTE CONF {"raw":[98,98,100,100,100,51,98,100,99,100]}
+
+00:03:33.810 --> 00:03:37.330
+is our system usability scale or arse us.
+
+NOTE CONF {"raw":[100,99,100,99,100,100,91,91]}
+
+00:03:37.570 --> 00:03:40.910
+So you should remember this from your evaluation to on
+
+NOTE CONF {"raw":[99,96,100,99,100,100,100,100,78,80]}
+
+00:03:40.910 --> 00:03:41.230
+DH here.
+
+NOTE CONF {"raw":[47,68]}
+
+00:03:41.230 --> 00:03:45.020
+We've got our sets of questions each relating tio some
+
+NOTE CONF {"raw":[99,100,50,99,100,100,100,99,64,99]}
+
+00:03:45.020 --> 00:03:48.230
+aspect of the EU's ability of the user interface and
+
+NOTE CONF {"raw":[100,100,100,54,54,100,94,94,99,100]}
+
+00:03:48.230 --> 00:03:51.930
+remember that we've got our positive scored questions and are
+
+NOTE CONF {"raw":[100,100,98,100,98,100,100,99,71,28]}
+
+00:03:51.930 --> 00:03:52.360
+negative.
+
+NOTE CONF {"raw":[99]}
+
+00:03:52.360 --> 00:03:56.100
+Scored questions on that does give us some interesting challenges
+
+NOTE CONF {"raw":[87,99,100,100,100,100,100,100,100,100]}
+
+00:03:56.100 --> 00:04:00.270
+when we're tryingto generate a score for these question it
+
+NOTE CONF {"raw":[100,100,100,100,99,100,100,100,63,47]}
+
+00:04:00.270 --> 00:04:05.760
+this questionnaire so have.
+
+NOTE CONF {"raw":[100,99,100,100]}
+
+00:04:05.760 --> 00:04:09.480
+First off, though, when you go into Google forms, you'll
+
+NOTE CONF {"raw":[100,100,90,100,100,100,100,100,99,98]}
+
+00:04:09.480 --> 00:04:13.080
+notice that they have a summary of your data in
+
+NOTE CONF {"raw":[100,100,100,100,100,99,85,100,100,93]}
+
+00:04:13.080 --> 00:04:18.820
+Google forms very helpfully, although unfortunately what Google Google form
+
+NOTE CONF {"raw":[97,98,100,99,99,100,100,100,99,75]}
+
+00:04:18.820 --> 00:04:23.250
+Summary charts are not useful at all in this case.
+
+NOTE CONF {"raw":[85,99,100,100,100,100,100,100,100,100]}
+
+00:04:23.840 --> 00:04:26.430
+All right, so this is not the way that we
+
+NOTE CONF {"raw":[94,94,100,100,100,100,100,100,100,100]}
+
+00:04:26.430 --> 00:04:27.610
+represent this data.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:04:27.610 --> 00:04:30.950
+What we're going to do is take calculate one score
+
+NOTE CONF {"raw":[100,91,100,100,100,100,100,100,96,100]}
+
+00:04:31.120 --> 00:04:32.450
+that represents this us.
+
+NOTE CONF {"raw":[100,100,98,98]}
+
+00:04:32.700 --> 00:04:35.980
+This's totally irrelevant and not useful.
+
+NOTE CONF {"raw":[96,100,100,100,100,100]}
+
+00:04:36.340 --> 00:04:39.240
+So so do not use that.
+
+NOTE CONF {"raw":[98,100,100,100,100,100]}
+
+00:04:39.250 --> 00:04:40.630
+Do not copy them.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:04:40.630 --> 00:04:44.150
+Don't do anything with, um, don't don't ignore them completely.
+
+NOTE CONF {"raw":[99,100,100,100,72,100,99,100,100,100]}
+
+00:04:46.240 --> 00:04:49.390
+What we need to do is get our data from
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,100,100]}
+
+00:04:49.390 --> 00:04:52.460
+the spreadsheet and calculate the suss school.
+
+NOTE CONF {"raw":[94,98,100,100,100,85,52]}
+
+00:04:52.820 --> 00:04:59.240
+Now you remember if you you remember, if you had
+
+NOTE CONF {"raw":[98,98,100,100,97,99,100,100,100,99]}
+
+00:04:59.240 --> 00:05:03.900
+a look at the videos on the satisfaction question is
+
+NOTE CONF {"raw":[100,100,100,99,68,100,100,100,100,100]}
+
+00:05:03.900 --> 00:05:05.350
+from Topic 12.
+
+NOTE CONF {"raw":[100,94,100]}
+
+00:05:05.740 --> 00:05:08.530
+We talked about the idea of the positive and negative
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100,100]}
+
+00:05:08.530 --> 00:05:11.890
+scoring on, also that we need to multiply by 2.5
+
+NOTE CONF {"raw":[100,99,100,100,100,100,84,82,100,100]}
+
+00:05:11.890 --> 00:05:14.350
+that final score to get a score out of 100.
+
+NOTE CONF {"raw":[100,100,100,94,100,99,100,100,100,100]}
+
+00:05:14.910 --> 00:05:16.700
+So let's have a look at our spreadsheet.
+
+NOTE CONF {"raw":[100,99,100,99,100,63,42,75]}
+
+00:05:16.970 --> 00:05:20.570
+So we've got our positively schooled questions, and with our
+
+NOTE CONF {"raw":[100,100,100,79,100,51,99,100,64,58]}
+
+00:05:20.570 --> 00:05:22.190
+positives, Lee scored questions.
+
+NOTE CONF {"raw":[75,39,100,99]}
+
+00:05:22.190 --> 00:05:26.490
+If someone strongly agrees, then that is four points.
+
+NOTE CONF {"raw":[100,98,99,99,100,100,100,97,100]}
+
+00:05:26.500 --> 00:05:28.690
+All right, which is the way it was scored in
+
+NOTE CONF {"raw":[89,89,100,100,100,100,100,100,93,100]}
+
+00:05:28.690 --> 00:05:29.680
+the Google form.
+
+NOTE CONF {"raw":[100,99,98]}
+
+00:05:29.680 --> 00:05:36.720
+Naturally, however, and so we can use that number when
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,100,100]}
+
+00:05:36.720 --> 00:05:40.080
+we're calculating our suss score without any changes.
+
+NOTE CONF {"raw":[89,100,55,56,95,99,100,99]}
+
+00:05:40.090 --> 00:05:40.950
+So that's fine.
+
+NOTE CONF {"raw":[100,99,100]}
+
+00:05:41.540 --> 00:05:47.900
+But for negatively scored square questions, the strongly agree we
+
+NOTE CONF {"raw":[100,100,99,100,92,99,100,100,100,100]}
+
+00:05:47.900 --> 00:05:49.250
+should score is four.
+
+NOTE CONF {"raw":[100,100,100,88]}
+
+00:05:49.640 --> 00:05:53.520
+However, however, for the negatively school question, we want to
+
+NOTE CONF {"raw":[100,100,100,100,99,99,100,100,99,99]}
+
+00:05:53.520 --> 00:05:56.050
+strongly agree to equal zero.
+
+NOTE CONF {"raw":[100,98,98,100,100]}
+
+00:05:56.620 --> 00:05:59.600
+Okay, because if they strongly agree with the negative question
+
+NOTE CONF {"raw":[67,100,100,97,100,97,99,55,100,99]}
+
+00:05:59.600 --> 00:06:01.850
+that that is really bad for our user interface.
+
+NOTE CONF {"raw":[95,99,99,68,100,100,93,100,100]}
+
+00:06:02.340 --> 00:06:05.560
+So we need to actually just the school for that.
+
+NOTE CONF {"raw":[100,100,100,99,100,100,100,99,100,100]}
+
+00:06:05.790 --> 00:06:10.190
+So we can calculate we'll get you reverse score by
+
+NOTE CONF {"raw":[100,100,100,100,57,100,57,92,97,100]}
+
+00:06:10.200 --> 00:06:14.050
+subtracting our score from the highest school, which is for
+
+NOTE CONF {"raw":[100,99,99,100,100,99,99,100,100,96]}
+
+00:06:14.440 --> 00:06:17.080
+well, that will give us a negative score of that
+
+NOTE CONF {"raw":[100,100,97,100,100,99,100,100,99,100]}
+
+00:06:17.090 --> 00:06:17.750
+item.
+
+NOTE CONF {"raw":[100]}
+
+00:06:18.240 --> 00:06:20.350
+All right, so then what we need we can just
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100,99,100]}
+
+00:06:20.350 --> 00:06:21.890
+do that for all the others.
+
+NOTE CONF {"raw":[100,100,100,100,100,99]}
+
+00:06:21.890 --> 00:06:23.270
+So again, positive school.
+
+NOTE CONF {"raw":[98,100,99,99]}
+
+00:06:23.270 --> 00:06:26.720
+We just leave for the negative school we have Teo,
+
+NOTE CONF {"raw":[83,100,100,100,100,99,100,100,100,47]}
+
+00:06:26.730 --> 00:06:30.840
+subtract the participants school from four and so on.
+
+NOTE CONF {"raw":[99,100,62,86,100,100,99,99,100]}
+
+00:06:31.340 --> 00:06:35.150
+Okay, so that will help us know some the scores.
+
+NOTE CONF {"raw":[96,100,100,100,100,100,75,89,86,96]}
+
+00:06:35.540 --> 00:06:38.700
+But ultimately, when we do our final calculation, you have
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,100,99,100]}
+
+00:06:38.700 --> 00:06:43.860
+to remember that you need Teo multiply by 2.5 to
+
+NOTE CONF {"raw":[100,100,100,100,100,46,91,100,100,95]}
+
+00:06:43.870 --> 00:06:45.350
+get that final score.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:06:45.840 --> 00:06:47.590
+All right, so here we have an example.
+
+NOTE CONF {"raw":[99,99,100,100,100,100,100,100]}
+
+00:06:47.590 --> 00:06:52.280
+This is the formula that you end up within Google
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,72,99]}
+
+00:06:52.290 --> 00:06:53.370
+spreadsheets.
+
+NOTE CONF {"raw":[99]}
+
+00:06:53.670 --> 00:06:55.720
+Your columns maybe different.
+
+NOTE CONF {"raw":[99,100,84,100]}
+
+00:06:55.720 --> 00:06:57.390
+So differently labelled.
+
+NOTE CONF {"raw":[100,100,100]}
+
+00:06:57.490 --> 00:06:58.610
+So just watch out.
+
+NOTE CONF {"raw":[100,100,100,98]}
+
+00:06:58.610 --> 00:07:01.510
+Make sure that you have the right labels here might
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,100,99,100]}
+
+00:07:01.510 --> 00:07:04.740
+not not be the same for you And then at
+
+NOTE CONF {"raw":[100,100,90,90,100,99,99,100,100,100]}
+
+00:07:04.740 --> 00:07:07.870
+the end, you'll have your score.
+
+NOTE CONF {"raw":[100,100,97,100,100,99]}
+
+00:07:07.870 --> 00:07:11.160
+A case of this formula is in this cell here
+
+NOTE CONF {"raw":[63,99,96,100,100,100,100,100,99,100]}
+
+00:07:11.400 --> 00:07:14.020
+on you, Khun drag down so that you can calculate
+
+NOTE CONF {"raw":[100,100,100,50,100,100,100,100,100,100]}
+
+00:07:14.030 --> 00:07:14.990
+a ll The other one's a CZ.
+
+NOTE CONF {"raw":[100,99,100,100,69,72,53]}
+
+00:07:14.990 --> 00:07:18.470
+Well, all right, so it's a little bit tricky, but
+
+NOTE CONF {"raw":[92,97,97,100,99,100,100,100,100,100]}
+
+00:07:18.470 --> 00:07:19.210
+not impossible.
+
+NOTE CONF {"raw":[100,100]}
+
+00:07:19.420 --> 00:07:23.180
+So if your score is particularly, these are very low
+
+NOTE CONF {"raw":[100,99,99,99,99,100,100,99,100,100]}
+
+00:07:23.180 --> 00:07:23.800
+scores.
+
+NOTE CONF {"raw":[99]}
+
+00:07:23.950 --> 00:07:27.080
+Normally, schools are a lot higher than this, but this
+
+NOTE CONF {"raw":[100,85,40,100,100,100,100,100,100,100]}
+
+00:07:27.080 --> 00:07:32.110
+was scores from our test run of the practise evaluation
+
+NOTE CONF {"raw":[100,94,100,100,100,100,100,100,100,100]}
+
+00:07:32.110 --> 00:07:33.440
+in week seven.
+
+NOTE CONF {"raw":[100,99,100]}
+
+00:07:33.450 --> 00:07:36.130
+So I don't think people are really thinking too highly
+
+NOTE CONF {"raw":[56,100,100,100,100,98,99,100,98,100]}
+
+00:07:36.130 --> 00:07:37.060
+about it when they did it.
+
+NOTE CONF {"raw":[100,99,100,100,99,99]}
+
+00:07:38.140 --> 00:07:42.040
+Okay, so when you've got yourself scores, then you can
+
+NOTE CONF {"raw":[81,100,100,97,100,89,99,100,100,100]}
+
+00:07:42.040 --> 00:07:46.070
+put them in your satisfaction table on Dhere.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,99,96]}
+
+00:07:46.070 --> 00:07:49.420
+We have sussed scores than for each participant on.
+
+NOTE CONF {"raw":[100,100,70,57,93,99,100,100,99]}
+
+00:07:49.420 --> 00:07:51.050
+We really do want try and much up.
+
+NOTE CONF {"raw":[100,90,100,71,94,96,97,99]}
+
+00:07:51.440 --> 00:07:52.550
+You know, each one.
+
+NOTE CONF {"raw":[93,94,100,99]}
+
+00:07:53.910 --> 00:07:54.430
+All right.
+
+NOTE CONF {"raw":[94,94]}
+
+00:07:54.430 --> 00:07:57.420
+And so the final piece of data for our satisfaction
+
+NOTE CONF {"raw":[64,100,100,100,100,100,99,100,99,100]}
+
+00:07:57.420 --> 00:07:59.750
+scores is our recommend to a friend.
+
+NOTE CONF {"raw":[100,99,84,53,48,74,99]}
+
+00:08:00.340 --> 00:08:02.300
+So in one of your spreads.
+
+NOTE CONF {"raw":[100,100,100,77,77,38]}
+
+00:08:02.320 --> 00:08:03.990
+Google forms.
+
+NOTE CONF {"raw":[97,99]}
+
+00:08:03.990 --> 00:08:05.750
+You've got your post study questions.
+
+NOTE CONF {"raw":[99,100,99,98,100,99]}
+
+00:08:06.030 --> 00:08:07.220
+What did you like most?
+
+NOTE CONF {"raw":[99,99,99,100,100]}
+
+00:08:07.220 --> 00:08:08.180
+What did you like, Lise?
+
+NOTE CONF {"raw":[100,97,97,100,92]}
+
+00:08:08.180 --> 00:08:09.410
+How could it be improved?
+
+NOTE CONF {"raw":[100,100,100,100,100]}
+
+00:08:09.470 --> 00:08:11.070
+All right, so that's a couple of one's.
+
+NOTE CONF {"raw":[68,68,100,80,100,100,100,72]}
+
+00:08:11.070 --> 00:08:14.140
+What we're looking at here is that How likely is
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,100,100,100]}
+
+00:08:14.140 --> 00:08:16.340
+it that you would recommend this prototype to a friend
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,93,100,100]}
+
+00:08:16.340 --> 00:08:17.040
+or colleague?
+
+NOTE CONF {"raw":[100,100]}
+
+00:08:17.440 --> 00:08:19.250
+All right, so we're looking here.
+
+NOTE CONF {"raw":[99,99,100,100,100,100]}
+
+00:08:19.260 --> 00:08:19.520
+Yep.
+
+NOTE CONF {"raw":[98]}
+
+00:08:19.520 --> 00:08:20.470
+Number five.
+
+NOTE CONF {"raw":[100,100]}
+
+00:08:20.750 --> 00:08:21.670
+So we've got that.
+
+NOTE CONF {"raw":[100,93,100,100]}
+
+00:08:21.680 --> 00:08:24.890
+And we've got No Yes, Yes, yes, yes, yes.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100,100,100]}
+
+00:08:25.070 --> 00:08:26.450
+For each of our participants.
+
+NOTE CONF {"raw":[100,100,100,99,99]}
+
+00:08:26.840 --> 00:08:28.670
+So all we need to do is tow.
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,60]}
+
+00:08:28.680 --> 00:08:30.550
+Add that into the table.
+
+NOTE CONF {"raw":[93,100,100,98,100]}
+
+00:08:30.940 --> 00:08:31.480
+All right.
+
+NOTE CONF {"raw":[93,93]}
+
+00:08:31.480 --> 00:08:34.539
+And now we have our recommend to a friend score
+
+NOTE CONF {"raw":[100,100,100,100,98,99,98,100,75,99]}
+
+00:08:34.539 --> 00:08:35.050
+as well.
+
+NOTE CONF {"raw":[99,99]}
+
+00:08:35.640 --> 00:08:35.930
+All right.
+
+NOTE CONF {"raw":[95,95]}
+
+00:08:35.930 --> 00:08:39.090
+So that gives us our data for satisfaction.
+
+NOTE CONF {"raw":[100,99,100,67,93,100,100,100]}
+
+00:08:39.539 --> 00:08:40.729
+Well, not all of it.
+
+NOTE CONF {"raw":[100,99,100,100,100]}
+
+00:08:40.729 --> 00:08:42.390
+Because we've got one more set on.
+
+NOTE CONF {"raw":[100,91,100,100,100,100,100]}
+
+00:08:42.390 --> 00:08:44.260
+That is our open questions.
+
+NOTE CONF {"raw":[100,100,99,100,100]}
+
+00:08:44.440 --> 00:08:47.590
+So our comments that people have and remember, we have
+
+NOTE CONF {"raw":[99,99,100,100,100,100,99,97,100,100]}
+
+00:08:47.590 --> 00:08:49.070
+our what did you like most?
+
+NOTE CONF {"raw":[96,100,99,99,100,100]}
+
+00:08:49.080 --> 00:08:51.470
+All right, so here is some things about what people
+
+NOTE CONF {"raw":[74,75,100,55,41,97,97,100,100,100]}
+
+00:08:51.470 --> 00:08:52.950
+said about what they like most.
+
+NOTE CONF {"raw":[100,100,100,100,92,100]}
+
+00:08:53.530 --> 00:08:56.830
+Okay, so when you're looking at comment data, sometimes it's
+
+NOTE CONF {"raw":[81,100,100,50,100,100,100,100,100,100]}
+
+00:08:56.830 --> 00:08:58.810
+helpful to go and see if you can see a
+
+NOTE CONF {"raw":[100,100,100,100,100,100,92,100,100,99]}
+
+00:08:58.810 --> 00:09:00.250
+theme in the data.
+
+NOTE CONF {"raw":[100,100,100,100]}
+
+00:09:00.740 --> 00:09:03.830
+And it's clear in this particular data that we have
+
+NOTE CONF {"raw":[100,80,100,100,100,100,100,100,100,100]}
+
+00:09:03.830 --> 00:09:06.700
+things like, You know, the issues with the food menus
+
+NOTE CONF {"raw":[100,100,98,98,51,100,100,100,100,98]}
+
+00:09:07.180 --> 00:09:08.670
+menus have complicated.
+
+NOTE CONF {"raw":[92,53,91]}
+
+00:09:08.670 --> 00:09:10.110
+The menu option is hard.
+
+NOTE CONF {"raw":[100,99,100,100,100]}
+
+00:09:10.490 --> 00:09:15.420
+The menu was confusing, finding the food hard to find.
+
+NOTE CONF {"raw":[100,99,91,100,100,100,100,100,100,100]}
+
+00:09:15.510 --> 00:09:21.220
+So there's a rial theme throughout this comments, indicating that
+
+NOTE CONF {"raw":[100,100,100,52,100,100,100,98,100,100]}
+
+00:09:21.220 --> 00:09:22.790
+there does seem to be an issue with trying to
+
+NOTE CONF {"raw":[100,100,100,100,100,100,100,99,100,100]}
+
+00:09:22.790 --> 00:09:26.450
+find the food so we can use these comments on
+
+NOTE CONF {"raw":[100,100,99,100,100,100,100,99,100,100]}
+
+00:09:26.450 --> 00:09:27.160
+their own.
+
+NOTE CONF {"raw":[99,79]}
+
+00:09:27.310 --> 00:09:29.950
+But we can also use them to help illustrate how
+
+NOTE CONF {"raw":[100,100,99,100,100,98,100,100,100,100]}
+
+00:09:29.950 --> 00:09:34.290
+people went on tasks so later in interpretation, we'll talk
+
+NOTE CONF {"raw":[100,100,100,100,100,99,76,100,60,99]}
+
+00:09:34.290 --> 00:09:36.690
+about this idea of convergence of data.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,100]}
+
+00:09:37.020 --> 00:09:39.510
+So that is, you know, you've got lots of errors.
+
+NOTE CONF {"raw":[100,100,100,100,100,99,100,100,100,100]}
+
+00:09:39.510 --> 00:09:41.820
+You've got poor task completion.
+
+NOTE CONF {"raw":[99,100,97,99,100]}
+
+00:09:41.820 --> 00:09:43.920
+You've got long task times on.
+
+NOTE CONF {"raw":[90,100,100,98,96,100]}
+
+00:09:43.920 --> 00:09:47.080
+Then you can have these comments which help illustrate you
+
+NOTE CONF {"raw":[100,99,100,100,100,100,100,69,100,99]}
+
+00:09:47.080 --> 00:09:52.250
+know what is causing those debt issues in the performance
+
+NOTE CONF {"raw":[99,100,100,100,100,99,100,100,100,100]}
+
+00:09:52.250 --> 00:09:52.650
+data?
+
+NOTE CONF {"raw":[100]}
+
+00:09:53.740 --> 00:09:55.830
+Well, the other day, you want them altered to head
+
+NOTE CONF {"raw":[100,100,100,98,99,99,93,33,74,86]}
+
+00:09:55.840 --> 00:09:56.350
+together.
+
+NOTE CONF {"raw":[100]}
+
+00:09:58.340 --> 00:09:59.840
+All right, s o.
+
+NOTE CONF {"raw":[83,83,63,45]}
+
+00:09:59.840 --> 00:10:03.240
+That's the end of looking at satisfaction measures.
+
+NOTE CONF {"raw":[99,100,100,100,100,100,98,97]}
+
+00:10:03.390 --> 00:10:10.410
+Eso we've got to calculate we've got extract dust difficulties
+
+NOTE CONF {"raw":[50,93,100,99,100,97,82,100,81,100]}
+
+00:10:10.740 --> 00:10:17.130
+to calculate our suss, score, extract, recommendation, score and also
+
+NOTE CONF {"raw":[32,99,99,88,100,100,55,99,100,100]}
+
+00:10:17.130 --> 00:10:21.330
+finally looked through the comments and see if there's anything
+
+NOTE CONF {"raw":[99,81,98,100,100,100,99,100,100,100]}
+
+00:10:21.340 --> 00:10:26.610
+there that we can get Teo help guide us in
+
+NOTE CONF {"raw":[100,100,100,100,100,94,100,100,100,98]}
+
+00:10:26.610 --> 00:10:29.950
+what understanding any problems that the EU's had.
+
+NOTE CONF {"raw":[100,100,100,100,100,47,43,99]}
+
+00:10:31.340 --> 00:10:33.700
+All right, well, that's it for the satisfaction measures.
+
+NOTE CONF {"raw":[98,98,99,100,100,100,100,100,97]}
+
+00:10:33.900 --> 00:10:37.060
+Join me, which is the last set of measures.
+
+NOTE CONF {"raw":[82,100,100,100,100,100,99,100,100]}
+
+00:10:37.360 --> 00:10:39.410
+Join me for the next video where we talk about
+
+NOTE CONF {"raw":[95,100,100,100,100,100,92,100,98,99]}
+
+00:10:39.410 --> 00:10:40.520
+data interpretation.
+
+NOTE CONF {"raw":[88,100]}
+
+00:10:41.540 --> 00:10:42.110
+I see that.
+
+NOTE CONF {"raw":[97,99,68]}
